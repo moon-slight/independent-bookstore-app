@@ -5,6 +5,6 @@
 此專案與 terry0921i HarrisQs 共同撰寫
 
 1. 讀取畫面 Loading screen
- ![](https://drive.google.com/drive/folders/0B8kHqz41-gnNdHBETjM3R0ZKWkE)
+ ![](https://drive.google.com/open?id=0B8kHqz41-gnNNVNtNi1XV0ZsMkU)
  
  
