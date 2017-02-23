@@ -3,3 +3,8 @@
 ####資料所收錄的店家有所不足，但是可以即時更新，因為沒有多的人力與時間去隨時掌握各區店家的狀況
 
 此專案與 terry0921i HarrisQs 共同撰寫
+
+1. 讀取畫面 Loading screen
+ ![](https://drive.google.com/open?id=0B8kHqz41-gnNNVNtNi1XV0ZsMkU)
+ 
+ 
